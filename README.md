@@ -5,6 +5,6 @@ Each project helped me understand how to tackle errors, debug issues, and actual
 They may not be polished or innovative, but they’ve been a great way to practice problem-solving.  
 
 ## 📂 Projects
-- [🎛️ Gesture Volume Control](./GestureVolumeControl/README.md)  
+- [🎛️ Gesture Volume Control](./Gesture Volume Control/README.md)  
 
 More projects will be added as I continue experimenting 🚀
