@@ -26,6 +26,6 @@ It’s not super smooth, but it was a great exercise in using computer vision an
 ## 📦 Installation
 Clone the repository and install dependencies:
 ```bash
-git clone https://github.com/your-username/MyProjects.git
+git clone https://github.com/vinay-271/Fun-projects
 cd GestureVolumeControl
 pip install opencv-python mediapipe pycaw numpy
